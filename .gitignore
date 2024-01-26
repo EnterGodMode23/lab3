@@ -1,0 +1,14 @@
+/cmake-build-debug/
+/tree.html
+/.idea
+*.o
+result
+out.txt
+*.ext
+RemoteTasks/*
+.env
+*.ptptb
+*.txt
+/out.asm
+/out.asm.code
+/out.asm.data
